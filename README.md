@@ -1,16 +1,27 @@
-## Hi there 👋
+### Hi, I´m Josefina Bacci!
+I'm currently studying a **Bachelor's Degree in Computer Science** at the [Universidad Nacional del Sur](https://www.uns.edu.ar/), Argentina.
+My personal portfolio is currently in progress — stay tuned!
 
-<!--
-**JosefinaBacci/JosefinaBacci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **About me**  
+I'm a Computer Science student with a strong interest in **data science**, particularly in **text mining** and **large language models (LLMs)**.  
+I also enjoy **full-stack web development**, working with both **frontend** and **backend** technologies.
+I have solid knowledge of **algorithms**, **databases (SQL)**, and the **design and development of software systems** using clean and maintainable programming practices.  
+I'm passionate about building intelligent and useful software that combines good engineering with data-driven insights.
 
-Here are some ideas to get you started:
+🛠️ **Tech Stack & Skills**
+- **Frontend:** HTML, CSS, JavaScript, React
+- **Backend:** Node.js, Express
+- **Databases:** SQL
+- **AI & Data Science:** Text Mining, Machine Learning
+- **Tools & Platforms:** Git, GitHub, npm
+- **Languages:** Spanish (native), English (intermediate/advanced)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 **Currently learning**
+- Kotlin
+- Python
+- Three.js
+
+📫 **Contact**
+You can reach me on:
+- [LinkedIn](https://www.linkedin.com/josefina-bacci) 
+- Email: josefinabacci015@gmail.com 
