@@ -1,4 +1,4 @@
-### Hi, I´m Josefina Bacci!
+# 👋 Hi, I´m Josefina Bacci!
 I'm currently studying a **Bachelor's Degree in Computer Science** at the [Universidad Nacional del Sur](https://www.uns.edu.ar/), Argentina.
 
 > My personal portfolio is currently in progress — stay tuned!
