@@ -35,5 +35,6 @@ You can reach me on:
 - [LinkedIn](www.linkedin.com/in/josefina-bacci) 
 - Email: josefinabacci015@gmail.com
 
+# 📊 GitHub Stats
 ![Josefina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JosefinaBacci&show_icons=true&theme=radical)
 
