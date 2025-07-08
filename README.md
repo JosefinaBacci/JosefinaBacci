@@ -9,18 +9,21 @@ I also enjoy **full-stack web development**, working with both **frontend** and 
 I have solid knowledge of **algorithms**, **databases (SQL)**, and the **design and development of software systems** using clean and maintainable programming practices.  
 I'm passionate about building intelligent and useful software that combines good engineering with data-driven insights.
 
-🛠️ **Tech Stack & Skills**
-- **Frontend:** HTML, CSS, JavaScript, React
-- **Backend:** Node.js, Express
-- **Databases:** SQL
-- **AI & Data Science:** Text Mining, Machine Learning
-- **Tools & Platforms:** Git, GitHub, npm
-- **Languages:** Spanish (native), English (intermediate/advanced)
-
-📚 **Currently learning**
-- Kotlin
-- Python
-- Three.js
+### 🔧 Languages and Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
 📫 **Contact**
 You can reach me on:
