@@ -9,7 +9,7 @@ I also enjoy **full-stack web development**, working with both **frontend** and 
 I have solid knowledge of **algorithms**, **databases (SQL)**, and the **design and development of software systems** using clean and maintainable programming practices.  
 I'm passionate about building intelligent and useful software that combines good engineering with data-driven insights.
 
-### 🔧 Languages and Tools
+🔧 **Languages and Tools**
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
