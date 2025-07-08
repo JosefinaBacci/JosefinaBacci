@@ -25,6 +25,11 @@ I'm passionate about building intelligent and useful software that combines good
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
+🎓 **Certifications & Courses**
+- Introduction to AI in Cybersecurity for Programmers - Universidad Nacional del Sur (2025)
+- Introduction to Back-End Development - Coursera (2025)
+- HTML, CSS, and Javascript for Web Developers - Coursera (2024)
+
 📫 **Contact**
 You can reach me on:
 - [LinkedIn](www.linkedin.com/in/josefina-bacci) 
