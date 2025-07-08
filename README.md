@@ -1,6 +1,7 @@
 ### Hi, I´m Josefina Bacci!
 I'm currently studying a **Bachelor's Degree in Computer Science** at the [Universidad Nacional del Sur](https://www.uns.edu.ar/), Argentina.
-My personal portfolio is currently in progress — stay tuned!
+
+> My personal portfolio is currently in progress — stay tuned!
 
 💻 **About me**  
 I'm a Computer Science student with a strong interest in **data science**, particularly in **text mining** and **large language models (LLMs)**.  
@@ -23,5 +24,5 @@ I'm passionate about building intelligent and useful software that combines good
 
 📫 **Contact**
 You can reach me on:
-- [LinkedIn](https://www.linkedin.com/josefina-bacci) 
+- [LinkedIn](www.linkedin.com/in/josefina-bacci) 
 - Email: josefinabacci015@gmail.com 
