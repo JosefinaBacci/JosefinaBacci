@@ -1,15 +1,24 @@
-# 👋 Hi, I´m Josefina Bacci!
-I'm currently studying a **Bachelor's Degree in Computer Science** at the [Universidad Nacional del Sur](https://www.uns.edu.ar/), Argentina.
+# 👋 Hi, I'm Josefina Bacci!
 
-> My personal portfolio is currently in progress — stay tuned!
+I'm currently pursuing a **Bachelor's Degree in Computer Science** at the  
+[Universidad Nacional del Sur](https://www.uns.edu.ar/), Argentina 🇦🇷
 
-💻 **About me**  
-I'm a Computer Science student with a strong interest in **data science**, particularly in **text mining** and **large language models (LLMs)**.  
-I also enjoy **full-stack web development**, working with both **frontend** and **backend** technologies.
-I have solid knowledge of **algorithms**, **databases (SQL)**, and the **design and development of software systems** using clean and maintainable programming practices.  
-I'm passionate about building intelligent and useful software that combines good engineering with data-driven insights.
+> 🚧 My personal portfolio is currently under development — stay tuned!
 
-🔧 **Languages and Tools**
+---
+
+## 💻 About Me
+I'm a Computer Science student with a strong interest in **Data Science**, especially in  
+**Text Mining** and **Large Language Models (LLMs)**.
+
+I also enjoy **full-stack web development**, working across both **frontend** and **backend** technologies.
+I have solid knowledge of **algorithms**, **SQL databases**, and the **design and development of software systems**, applying **clean, maintainable, and scalable programming practices**.
+
+I'm passionate about building intelligent and useful software that combines **strong engineering principles** with **data-driven insights**.
+
+---
+
+## 🔧 Languages and Tools
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -25,13 +34,48 @@ I'm passionate about building intelligent and useful software that combines good
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
-🎓 **Certifications & Courses**
-- Introduction to AI in Cybersecurity for Programmers - Universidad Nacional del Sur (2025)
-- Introduction to Back-End Development - Coursera (2025)
-- HTML, CSS, and Javascript for Web Developers - Coursera (2024)
+---
 
-📫 **Contact**
-You can reach me on:
-- [LinkedIn](www.linkedin.com/in/josefina-bacci) 
-- Email: josefinabacci015@gmail.com
+## 🎓 Academic Projects
+
+### 🎬 DCICFLIX — Full-Stack Web Application
+Collaborative university project developed for  
+**Advanced Topics in Web Development**.
+
+- Netflix-inspired web application
+- User authentication and authorization
+- Movie reviews with star ratings
+- User profile with review statistics
+- Infinite scrolling and movie details
+- Frontend & Backend development
+
+🔗 *Collaborative repository (see pinned repositories)*
+
+---
+
+### 📱 Movie App — Kotlin & Clean Architecture
+Collaborative project for  
+**Systems Analysis and Design**.
+
+- Android application developed in Kotlin
+- Clean Architecture principles
+- MVVM (Model-View-ViewModel) pattern
+- Broker pattern to integrate multiple data sources (IMDb and others)
+- Focus on maintainable and scalable code
+
+🔗 *Collaborative repository (see pinned repositories)*
+
+---
+
+## 🎓 Certifications & Courses
+- **Introduction to AI in Cybersecurity for Programmers** — Universidad Nacional del Sur (2025)
+- **Introduction to Back-End Development** — Coursera (2025)
+- **HTML, CSS, and JavaScript for Web Developers** — Coursera (2024)
+
+---
+
+## 📫 Contact
+- 💼 [LinkedIn](https://www.linkedin.com/in/josefina-bacci)
+- 📧 Email: **josefinabacci015@gmail.com**
+
 
