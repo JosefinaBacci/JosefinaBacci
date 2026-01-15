@@ -82,8 +82,6 @@ University project developed for
 - LLM-based structured summarization
 - Fine-tuning a biomedical language model on generated summaries
 
-🔗 *Project repository available (see pinned repositories)*
-
 ---
 
 ## 🎓 Certifications & Courses
