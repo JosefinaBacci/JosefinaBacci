@@ -67,6 +67,25 @@ Collaborative project for
 
 ---
 
+### 🧠 LLM Pipeline for Clinical Text Mining
+University project developed for  
+**Text Mining and Machine Learning**
+
+- Designed a **two-stage LLM pipeline** for clinical decision support
+- First LLM generates a **structured clinical summary** from raw medical anamnesis
+- Second stage classifies whether a patient is **pluripathological**
+- Extensive **prompt engineering** and prompt evaluation
+- Combination of **LLMs + supervised fine-tuning**
+- Focus on recall-oriented clinical decision support systems
+
+🔬 Best results achieved by combining:
+- LLM-based structured summarization
+- Fine-tuning a biomedical language model on generated summaries
+
+🔗 *Project repository available (see pinned repositories)*
+
+---
+
 ## 🎓 Certifications & Courses
 - **Introduction to AI in Cybersecurity for Programmers** — Universidad Nacional del Sur (2025)
 - **Introduction to Back-End Development** — Coursera (2025)
